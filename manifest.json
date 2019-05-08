@@ -1,0 +1,26 @@
+{
+   "description": "An unofficial Nord theme for Chrome",
+   
+   "manifest_version": 2,
+   "name": "Nord",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 216,222,233 ],
+         "frame": [ 46,52,64 ],
+         "ntp_background": [ 46,52,64 ],
+         "ntp_text": [ 129,161,193 ],
+         "tab_background_text": [ 143,188,187 ],
+         "tab_text": [ 163,190,140 ],
+         "toolbar": [ 67,76,94 ],
+         "button_background": [ 216,222,233 ]
+      },
+      "tints": {
+         "buttons": [ 0, 0.5, 0.2 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ 0.5, 0, 0.7 ],
+         "frame_incognito_inactive": [ 0.1, 0, 0.7 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
